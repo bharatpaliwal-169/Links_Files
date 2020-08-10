@@ -1,0 +1,55 @@
+
+ReactStrap......
+
+
+yarn add bootstrap@4.0.0
+
+yarn add reactstrap@5.0.0
+
+yarn add react-popper@0.9.2
+
+open index.js file in the src folder
+and add the following line into the imports:
+
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+
+
+
+yarn add font-awesome@4.7.0
+
+yarn add bootstrap-social@5.1.1
+
+
+
+open index.js file in the src folder
+and add the following line into the imports:
+
+
+
+import 'font-awesome/css/font-awesome.css';
+
+import 'bootstrap-social/bootstrap-social.css';
+
+
+
+
+ROUTER
+
+
+yarn add react-router-dom@4.2.2
+
+
+
+REDUX
+
+yarn add redux@3.7.2
+
+yarn add react-redux@5.0.7
+
+
+
+
+
+

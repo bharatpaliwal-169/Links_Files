@@ -1,0 +1,16 @@
+to start the mongo server
+
+
+"C:\Program Files\MongoDB\Server\4.2\bin\mongod.exe" --dbpath="C:\Users\RJ36\Desktop\Coursera\BackEnd_node\mongodb\data"
+
+into new command prompt to start REPL shell
+
+"C:\Program Files\MongoDB\Server\4.2\bin\mongo.exe"
+
+
+
+for nodejs and mongo db
+
+npm install mongodb@3.0.10 --save
+npm install assert@1.4.1 --save
+
