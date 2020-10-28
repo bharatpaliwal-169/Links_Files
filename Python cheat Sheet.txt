@@ -1,0 +1,13 @@
+for command prompt
+
+py -m pip install -U <package Name> --user
+
+
+For build 
+py setup.py build
+
+for Dist
+py setup.py bdist_msi
+
+
+

@@ -13,3 +13,13 @@ git add .
 
 git push origin master
 
+
+
+git fetch origin master:tmp
+git rebase tmp
+git push origin HEAD:master
+git branch -D tmp
+
+
+
+git remote set-url origin https://github.com/MyRepo/project.git
