@@ -23,3 +23,6 @@ git branch -D tmp
 
 
 git remote set-url origin https://github.com/MyRepo/project.git
+
+
+git push -f origin master
