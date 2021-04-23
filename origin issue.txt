@@ -26,3 +26,12 @@ git remote set-url origin https://github.com/MyRepo/project.git
 
 
 git push -f origin master
+
+
+
+Remove the git repo with this command on mac/linux:
+
+rm -rf .git
+and this on windows:
+
+rmdir .git
